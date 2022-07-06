@@ -1,0 +1,1 @@
+# Throwing-map-of-robot-manipulators
